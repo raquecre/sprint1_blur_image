@@ -1,0 +1,23 @@
+html {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(52, 53, 29);
+}
+
+#bird {
+  width: 1360px;
+  height: 841px;
+}
+
+/* .birdWithBlur {
+  filter: blur(100px);
+
+}
+
+.birdWithBlur:hover {
+  filter: blur(0px);
+  transition: filter s 1s ease;
+  transition-duration: 2s;
+  transition-property: filter;
+  transition-delay: initial;
+} */
